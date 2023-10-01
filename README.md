@@ -1,5 +1,5 @@
-# ChowFen_App
-ChowFen_App is a web-based application built using Spring Boot, Maven, and MVC architecture. It provides an admin dashboard and a user interface for placing delivery orders.
+# Food Delivery App
+Food Delivery App is a web-based application built using Spring Boot, Maven, and MVC architecture. It provides an admin dashboard and a user interface for placing delivery orders.
 
 ## Features
 Admin dashboard
